@@ -57,3 +57,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/xiaomi/mi439/mi439-vendor.mk)
+
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePkgs
