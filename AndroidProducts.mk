@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_mi439.mk
+    $(LOCAL_DIR)/spark_olives.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_mi439-user \
-    spark_mi439-userdebug \
-    spark_mi439-eng
+    spark_olives-user \
+    spark_olives-userdebug \
+    spark_olives-eng
