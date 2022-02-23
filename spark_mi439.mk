@@ -37,11 +37,11 @@ SPARK_MAINTAINER := Anant_Goel
 PRODUCT_BROKEN_VERIFY_USES_LIBRARIES := true
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := mi439
-PRODUCT_NAME := spark_mi439
+PRODUCT_DEVICE := olive
+PRODUCT_NAME := spark_olive
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := SDM439
+PRODUCT_MODEL := Redmi 8
 PRODUCT_MANUFACTURER := Xiaomi
 TARGET_VENDOR := Xiaomi
 
